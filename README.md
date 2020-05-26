@@ -1,0 +1,2 @@
+# awsamplifyapp
+amplifyapp dem
